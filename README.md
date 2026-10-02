@@ -1,4 +1,4 @@
-# Campus Creative Lab
+# Campus Creative Club
 
 A complete ICS 2102 semester mini project: a five-page student club website built with HTML, CSS and JavaScript. It is compatible with GitHub Pages.
 
